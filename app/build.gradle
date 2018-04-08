@@ -1,0 +1,36 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 17
+    buildToolsVersion "27.0.1"
+
+    defaultConfig {
+        applicationId "com.niudantg.admin"
+        minSdkVersion 11
+        targetSdkVersion 8
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:18.0.0'
+    compile files('libs/dream-pojo-nd-0.1.jar')
+    compile files('libs/fastjson-1.1.31-sources.jar')
+    compile files('libs/fastjson-1.1.31.jar')
+    compile files('libs/jackson-core-asl-1.9.5.jar')
+    compile files('libs/qiniu.jar')
+    compile files('libs/sun.misc.BASE64Decoder.jar')
+    compile files('libs/TencentLocationSDK_v6.1.2.jar')
+    compile files('libs/TencentMapSDK_Raster_v_1.2.8_e45bcd0.jar')
+    compile files('libs/TencentMapSearch_v1.1.7.3207904.jar')
+    compile files('libs/xUtils-2.6.14.jar')
+    compile files('libs/zmxySDKALCmini_V1.01450366738902_release.jar')
+    compile files('libs/ZXing-core-2.2.jar')
+    compile files('libs/ZXing-javase-2.2.jar')
+}

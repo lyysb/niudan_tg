@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">扭蛋_推广</string>
+    <string name="listview_footer">加载中...</string>
+    <string name="Ensure">确定</string>
+    <string name="Cancel">取消</string>
+    <string name="scan_text">将二维码放入框内, 即可自动扫描</string>
+    <string name="getimg_1">去拍照</string>
+    <string name="getimg_2">去手机相册</string>
+    <!-- ====================================XListView================= -->
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">加载中...</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <string name="xlistview_footer_hint_null">现在还没有记录哦！</string>
+    <string name="xlistview_footer_hint_end">已经到最后了</string>
+
+    <!-- ******************************** 主页面****************************************** -->
+    <string name="main_1">推广管理</string>
+    <string name="main_2">商家列表</string>
+    <string name="main_3">签到管理</string>
+    <string name="main_4">启动设备</string>
+    <string name="main_5">上传商家信息</string>
+    <string name="main_6">团队成员管理</string>
+    <string name="main_7">设置</string>
+    <string name="main_8">数据统计</string>
+    <string name="main_9">经纬度</string>
+    <string name="main_10">设备绑定</string>
+    <string name="main_11">推广资料</string>
+    <string name="main_12">设备信息查询</string>
+    <string name="main_13">商户定位上传</string>
+    <string name="main_14">订单管理</string>
+    <string name="main_15">支付模块绑定</string>
+    <string name="main_16">支付板状态查询</string>
+    <string name="main_17">团队成员管理</string>
+    <!-- ******************************** 签到页面****************************************** -->
+    <string name="sign_1">签到管理</string>
+    <string name="sign_2">姓名：</string>
+    <string name="sign_3">工号：</string>
+    <string name="sign_4">时间：</string>
+    <string name="sign_5">签到</string>
+
+    <!-- ******************************** 登陆注册页面****************************************** -->
+    <string name="t_login">登陆</string>
+    <string name="t_login_1">手机号码</string>
+    <string name="t_login_2">密码</string>
+    <string name="t_login_3">获取验证码</string>
+    <string name="t_login_4">登陆</string>
+    <string name="t_login_5">确认加入即视为同意</string>
+    <string name="t_login_6">《唯先用户协议》</string>
+    <string name="t_login_7">第三方登陆</string>
+    <string name="t_login_8">验证</string>
+
+    <!-- ******************************** 运营商管理页面****************************************** -->
+    <string name="customer_1">商户管理</string>
+    <string name="customer_2">商户名称</string>
+    <string name="customer_3">电话</string>
+    <string name="customer_4">联系人</string>
+    <string name="customer_5">地址</string>
+    <string name="customer_6">余额</string>
+    <string name="customer_7">已结算金额</string>
+    <string name="customer_8">开户银行</string>
+    <string name="customer_9">银行账号</string>
+    <string name="customer_10">账户名称</string>
+    <string name="customer_11">注册日期</string>
+    <string name="customer_12">状态</string>
+    <!-- ******************************** 设备列表页面****************************************** -->
+    <string name="carlist_1">设备列表</string>
+    <string name="carlist_2">没有检索到设备.</string>
+
+    <!-- ******************************** 基本信息页面****************************************** -->
+    <string name="set_customerinfo_1">上传商户信息</string>
+    <string name="customerinfo_2">店铺名称</string>
+    <string name="customerinfo_4">经度:</string>
+    <string name="customerinfo_5">纬度:</string>
+    <string name="customerinfo_7">银行账户信息</string>
+    <string name="customerinfo_8">联系人</string>
+    <string name="customerinfo_9">联系电话</string>
+    <string name="customerinfo_10">联系地址</string>
+    <string name="customerinfo_11">保存</string>
+    <string name="customerinfo_12">定位</string>
+    <string name="customerinfo_13">定位地址:</string>
+    <string name="customerinfo_14">无定位上传</string>
+    <string name="customerinfo_15">租金金额：</string>
+    <string name="customerinfo_16">场地类型：</string>
+    <string name="customerinfo_17">店铺类型：</string>
+    <string name="customerinfo_18">每月租金</string>
+    <string name="customerinfo_19">室内</string>
+    <string name="customerinfo_20">室外</string>
+    <string name="customerinfo_21">店铺属性（非必须）</string>
+    <string name="customerinfo_22">备注(非必须)：</string>
+    <string name="customerinfo_23">备注信息录入</string>
+    <string name="customerinfo_24">门口照片：</string>
+    <string name="customerinfo_25">合同照片：</string>
+    <string name="customerinfo_26">设备台数和类别（必填）：</string>
+    <string name="customerinfo_27">例：扭蛋机2台</string>
+    <!-- ******************************** 选择区域页面****************************************** -->
+    <string name="region_1">选择区域</string>
+    <string name="region_2">全国</string>
+
+    <!-- ******************************** 推广管理****************************************** -->
+    <string name="extension_1">团队成员</string>
+    <string name="extension_2">ID</string>
+    <string name="extension_3">姓名</string>
+    <string name="extension_4">电话</string>
+    <string name="extension_5">城市</string>
+    <string name="extension_6">状态</string>
+    <string name="extension_7">入职时间</string>
+    <string name="extension_8">新建成员</string>
+
+    <!-- ******************************** 导航页面****************************************** -->
+    <string name="dh_1">导航</string>
+    <string name="dh_2">商家ID</string>
+    <string name="dh_3">输入商家ID</string>
+    <string name="dh_4">查询</string>
+    <string name="dh_5">店铺名称：</string>
+    <string name="dh_6">联系人：</string>
+    <string name="dh_7">地址：</string>
+    <string name="dh_8">导航</string>
+    <string name="dh_9">电话：</string>
+    <string name="dh_10">路线</string>
+    <string name="dh_11">步行</string>
+    <string name="dh_12">驾车</string>
+    <string name="dh_13">公交</string>
+    <string name="dh_14">商户ID：</string>
+    <string name="dh_15">状态：</string>
+    <string name="dh_16">微信绑定：</string>
+    <string name="dh_17">备注：</string>
+    <string name="dh_18">输入商家手机号</string>
+
+    <!-- ******************************** 检索商家信息页面****************************************** -->
+    <string name="car_bd_1">检索商家信息</string>
+    <string name="car_bd_2">商户ID</string>
+    <string name="car_bd_3">商户ID</string>
+    <string name="car_bd_4">绑定设备</string>
+    <string name="car_bd_5">设备列表</string>
+    <string name="car_bd_6">绑定设备</string>
+    <string name="car_bd_7">换手机号</string>
+    <string name="car_bd_8">解绑设备</string>
+    <string name="car_bd_9">解绑设备</string>
+    <string name="car_bd_10">修改信息</string>
+    <string name="car_bd_11">上传备注</string>
+    <string name="car_bd_12">蛋壳管理</string>
+    <!-- ******************************** 增加设备页面****************************************** -->
+    <string name="addcar_1">增加设备</string>
+    <string name="addcar_2">设备编号</string>
+    <string name="addcar_3">分成金额</string>
+    <string name="addcar_4">安装地区</string>
+    <string name="addcar_5">详细地址</string>
+    <string name="addcar_6">设置价格</string>
+    <string name="addcar_7">1元</string>
+    <string name="addcar_8">2元</string>
+    <string name="addcar_9">保存</string>
+    <string name="addcar_10">请选择</string>
+    <string name="addcar_11">0</string>
+    <string name="addcar_12">使用基本信息地址</string>
+    <string name="addcar_13">二维码上的编号</string>
+    <string name="addcar_14">设置分成</string>
+    <string name="addcar_15">元</string>
+    <string name="addcar_16">.1234567890</string>
+    <string name="addcar_17">50%</string>
+    <!-- ******************************** 修改电话页面****************************************** -->
+    <string name="updatephone_1"> 修改电话</string>
+    <string name="updatephone_2">提交</string>
+    <string name="updatephone_3">11位手机号</string>
+    <string name="updatephone_5">原号码：</string>
+    <string name="updatephone_6">新号码：</string>
+    <string name="updatephone_7">店名：</string>
+
+    <!-- ******************************** 推广资料页面****************************************** -->
+    <string name="edata_1">推广资料</string> <!-- ******************************** 查询设备信息页面****************************************** -->
+    <string name="carinfo_1">设备信息</string>
+    <string name="carinfo_2">设备编号</string>
+    <string name="carinfo_3">设备编号</string>
+    <string name="carinfo_6">绑定商户Id：</string>
+    <string name="carinfo_4">查询</string>
+    <string name="carinfo_5">设备编号：</string>
+    <string name="carinfo_8">价格：</string>
+    <string name="carinfo_7">地址：</string>
+    <string name="carinfo_9">状态：</string>
+    <string name="carinfo_10">支付板编号：</string>
+    <string name="carinfo_11">组合编号：</string>
+    <string name="carinfo_12">支付板5位编号</string>
+    <string name="carinfo_13">1234567890/</string>
+    <!-- ******************************** 检索商家信息页面****************************************** -->
+    <string name="custmer_location_1">商户定位上传</string>
+    <string name="custmer_location_2">商户ID</string>
+    <string name="custmer_location_3">商户ID</string>
+    <string name="custmer_location_4">查询</string>
+    <string name="custmer_location_5">商户名称：</string>
+    <string name="custmer_location_6">地址：</string>
+    <string name="custmer_location_7">经度：</string>
+    <string name="custmer_location_8">纬度：</string>
+    <string name="custmer_location_9">定位</string>
+    <string name="custmer_location_10">提交</string>
+
+    <!-- ******************************** 修改密码信息页面****************************************** -->
+    <string name="updatepassword_1">修改密码</string>
+    <string name="updatepassword_2">原密码</string>
+    <string name="updatepassword_3">新密码</string>
+    <string name="updatepassword_4">确认新密码</string>
+    <string name="updatepassword_5">提交</string>
+
+    <!-- ******************************** 设置页面****************************************** -->
+    <string name="set_1">设置</string>
+    <string name="set_2">修改密码</string>
+    <string name="set_3">退出</string>
+
+    <!-- ******************************** 修改价格页面****************************************** -->
+    <string name="updateprice_1"> 修改价格</string>
+    <string name="updateprice_2">提交</string>
+    <string name="updateprice_3">建议价格区间为1-10元</string>
+    <string name="updateprice_4">0123456789.</string>
+    <string name="updateprice_5">设备名称：</string>
+    <string name="updateprice_6">原价：</string>
+    <string name="updateprice_7">新价：</string>
+    <!-- ******************************** 备注页面****************************************** -->
+    <string name="creward_1">商户备注上传</string>
+    <string name="creward_2">商户ID：</string>
+    <string name="creward_3">备注信息</string>
+    <string name="creward_4">提交</string>
+    <string name="creward_5">商户名称：</string>
+
+    <!-- ******************************** 数据统计页面****************************************** -->
+    <string name="statistics_1">数据统计</string>
+    <string name="statistics_2">扫描总数：</string>
+    <string name="statistics_3">成功订单数：</string>
+    <string name="statistics_4">退单数：</string>
+    <string name="statistics_5">收入：</string>
+    <string name="statistics_6">用户注册数：</string>
+    <string name="statistics_7">用户总数：</string>
+    <string name="statistics_8">设备总数：</string>
+    <string name="statistics_9">累计订单数：</string>
+    <string name="statistics_10">累计收入：</string>
+
+    <!-- ******************************** 订单管理页面****************************************** -->
+    <string name="order_1">订单管理</string>
+    <string name="order_2">头像</string>
+    <string name="order_3">用户名</string>
+    <string name="order_4">金额</string>
+    <string name="order_5">支付</string>
+    <string name="order_6">启动状态</string>
+    <string name="order_7">时间</string>
+    <string name="order_8">设备编号</string>
+    <string name="order_9">城市</string>
+
+    <!-- ******************************** 支付模块绑定页面****************************************** -->
+    <string name="card_1"> 扭蛋机支付模块状态</string>
+    <string name="card_2"> 扭蛋机编号：</string>
+    <string name="card_3">绑定状态：</string>
+    <string name="card_4">输入支付模块ID</string>
+    <string name="card_5">选择扭蛋机组合编号：</string>
+    <string name="card_6">绑定</string>
+    <string name="card_8">解绑</string>
+    <string name="card_7">必填</string>
+
+    <!-- ********************************上传推广员页面****************************************** -->
+    <string name="new_ef_1">创建推广员</string>
+    <string name="new_ef_2">运营商姓名</string>
+    <string name="new_ef_3">电话</string>
+    <string name="new_ef_4">城市区域</string>
+    <string name="new_ef_5">公司员工</string>
+    <string name="new_ef_6">运营商员工</string>
+    <string name="new_ef_7">运营商主管</string>
+    <string name="new_ef_8">提交</string>
+    <string name="new_ef_9">类型</string>
+    <string name="new_ef_10">绑定权限</string>
+    <string name="new_ef_11">开</string>
+    <string name="new_ef_12">密码</string>
+    <string name="new_ef_13">是否主管</string>
+    <string name="new_ef_14">是否在职</string>
+    <string name="new_ef_15">在职</string>
+    <string name="new_ef_16">团队成员</string>
+
+    <!-- ********************************推广员dialog页面****************************************** -->
+    <string name="dialog_e_1">名下商户列表</string>
+    <string name="dialog_e_2">信息修改</string>
+    <string name="dialog_e_3">取消</string>
+    <!-- ********************************蛋壳管理页面****************************************** -->
+    <string name="egg_1">蛋壳管理</string>
+
+    <string name="egg_num">输入投放投蛋数量</string>
+    <string name="submit">提交</string>
+    <string name="context">蛋壳内容，不少于3个字</string>
+    <string name="shebei">  设备编号</string>
+
+    <string name="egg_leiji">累计出蛋</string>
+    <string name="egg_rijun">日均出蛋</string>
+    <string name="egg_save">当前存蛋量</string>
+    <string name="egg_recode">投蛋记录</string>
+    <string name="egg_tou">投蛋</string>
+
+</resources>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/background_main" >
+
+    <!-- 上线协议界面 -->
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical"
+        android:visibility="visible" >
+
+        <!-- title抬头部分 -->
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:background="@color/top_black_bg"
+            android:visibility="visible" >
+
+            <ImageView
+                android:id="@+id/btn_back"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignParentLeft="true"
+                android:padding="10dp"
+                android:src="@drawable/btn_back" />
+
+            <TextView
+                android:id="@+id/wed_name"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="70dp"
+                android:layout_marginRight="70dp"
+                android:gravity="center"
+                android:singleLine="true"
+                android:text="协议界面"
+                android:textColor="@color/white"
+                android:textSize="16sp" />
+        </RelativeLayout>
+        <!-- content内容部分 -->
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/city_line" />
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0px"
+            android:layout_weight="20"
+            android:background="#fefefe"
+            android:orientation="vertical"
+            android:visibility="visible" >
+
+            <WebView
+                android:id="@+id/view_agreement"
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent" />
+
+            <TextView
+                android:id="@+id/wed_text_error"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="网络异常了，稍后再来吧~"
+                android:textColor="@color/gray"
+                android:textSize="14sp"
+                android:visibility="gone" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</RelativeLayout>

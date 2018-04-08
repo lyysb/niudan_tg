@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white" >
+
+    <!-- 注册界面 -->
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical"
+        android:visibility="visible" >
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:background="@color/top_black_bg"
+            android:visibility="visible" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="@string/t_login"
+                android:textColor="@color/white"
+                android:textSize="16sp" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/city_line" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0px"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_weight="10"
+            android:gravity="center_horizontal"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:layout_marginTop="80dp"
+                android:background="@drawable/img_niudan" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:background="@color/white"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="45dp"
+                    android:gravity="bottom"
+                    android:orientation="horizontal" >
+
+                    <EditText
+                        android:id="@+id/ed_phone"
+                        android:layout_width="fill_parent"
+                        android:layout_height="45dp"
+                        android:background="@color/white"
+                        android:ems="10"
+                        android:gravity="center_vertical"
+                        android:hint="@string/t_login_1"
+                        android:maxLength="11"
+                        android:numeric="integer"
+                        android:paddingLeft="15dip"
+                        android:paddingRight="5dip"
+                        android:singleLine="true"
+                        android:textColor="@color/black_little"
+                        android:textColorHint="@color/gray"
+                        android:textSize="15sp"
+                        android:typeface="normal" />
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/city_line" />
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="45dp" >
+
+                    <EditText
+                        android:id="@+id/ed_password"
+                        android:layout_width="0dp"
+                        android:layout_height="45dp"
+                        android:layout_weight="2"
+                        android:background="@color/white"
+                        android:ems="10"
+                        android:gravity="center_vertical"
+                        android:hint="@string/t_login_2"
+                        android:maxLength="15"
+                        android:numeric="integer"
+                        android:paddingLeft="15dip"
+                        android:password="true"
+                        android:singleLine="true"
+                        android:textColor="@color/black_little"
+                        android:textColorHint="@color/gray"
+                        android:textSize="15sp"
+                        android:typeface="normal" />
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/city_line" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="0px"
+                android:layout_weight="4"
+                android:orientation="vertical" >
+
+                <RelativeLayout
+                    android:id="@+id/btn_login"
+                    android:layout_width="fill_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="30dip"
+                    android:background="@drawable/btn_login"
+                    android:scaleType="fitCenter" >
+
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_centerInParent="true"
+                        android:gravity="center"
+                        android:text="@string/t_login_4"
+                        android:textColor="@color/white"
+                        android:textSize="15sp" />
+                </RelativeLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

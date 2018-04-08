@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/gray_1" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:background="@color/top_black_bg"
+            android:visibility="visible" >
+
+            <ImageView
+                android:id="@+id/btn_back"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignParentLeft="true"
+                android:padding="12dp"
+                android:src="@drawable/btn_back" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="@string/car_bd_6"
+                android:textColor="@color/white"
+                android:textSize="16sp" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/city_line" />
+
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:scrollbars="none" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="0px"
+                android:layout_weight="10"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    android:orientation="vertical"
+                    android:padding="20dp" >
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="50dp"
+                        android:gravity="left|center_vertical"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="15dp"
+                            android:gravity="center"
+                            android:text="@string/addcar_2"
+                            android:textColor="@color/black_little"
+                            android:textSize="14sp" />
+
+                        <EditText
+                            android:id="@+id/ed_code"
+                            android:layout_width="fill_parent"
+                            android:layout_height="50dp"
+                            android:background="@color/white"
+                            android:ems="10"
+                            android:gravity="center_vertical"
+                            android:hint="@string/addcar_13"
+                            android:maxLength="7"
+                            android:numeric="integer"
+                            android:paddingRight="5dip"
+                            android:singleLine="true"
+                            android:textColor="@color/black_little"
+                            android:textColorHint="@color/gray"
+                            android:textSize="15sp"
+                            android:typeface="normal" />
+                    </LinearLayout>
+
+                    <ImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="1px"
+                        android:background="@color/gray_little5" />
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="left"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="50dp"
+                            android:layout_marginRight="15dp"
+                            android:gravity="center|left"
+                            android:text="@string/addcar_6"
+                            android:textColor="@color/black_little"
+                            android:textSize="14sp" />
+
+                        <EditText
+                            android:id="@+id/ed_price"
+                            android:layout_width="fill_parent"
+                            android:layout_height="50dp"
+                            android:background="@color/white"
+                            android:digits="@string/addcar_16"
+                            android:ems="10"
+                            android:gravity="center_vertical"
+                            android:hint="@string/addcar_11"
+                            android:maxLength="5"
+                            android:paddingRight="5dip"
+                            android:singleLine="true"
+                            android:textColor="@color/black_little"
+                            android:textColorHint="@color/gray"
+                            android:textSize="16sp"
+                            android:typeface="normal" />
+                    </LinearLayout>
+
+                    <ImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="1px"
+                        android:background="@color/gray_little5" />
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="left"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="50dp"
+                            android:layout_marginRight="15dp"
+                            android:gravity="center|left"
+                            android:text="@string/addcar_14"
+                            android:textColor="@color/black_little"
+                            android:textSize="14sp" />
+
+                        <TextView
+                            android:id="@+id/ed_proportion"
+                            android:layout_width="0dp"
+                            android:layout_height="50dp"
+                            android:layout_marginRight="15dp"
+                            android:layout_weight="3"
+                            android:gravity="center|left"
+                            android:text="@string/addcar_17"
+                            android:textColor="@color/black_little"
+                            android:textSize="14sp" />
+
+                        <Button
+                            android:id="@+id/btn_jia"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:layout_marginRight="20dp"
+                            android:background="@drawable/btn_jia" />
+
+                        <Button
+                            android:id="@+id/btn_jian"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:layout_marginRight="15dp"
+                            android:background="@drawable/btn_jian" />
+                    </LinearLayout>
+
+                    <ImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="1px"
+                        android:background="@color/gray_little5" />
+
+                    <RelativeLayout
+                        android:id="@+id/btn_region"
+                        android:layout_width="fill_parent"
+                        android:layout_height="50dp"
+                        android:background="@drawable/main_btn_bg1"
+                        android:orientation="vertical" >
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="50dp"
+                            android:layout_alignParentLeft="true"
+                            android:gravity="center|left"
+                            android:orientation="horizontal" >
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="fill_parent"
+                                android:gravity="center"
+                                android:text="@string/addcar_4"
+                                android:textColor="@color/black_little"
+                                android:textSize="14sp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="50dp"
+                            android:layout_alignParentRight="true"
+                            android:gravity="center"
+                            android:orientation="horizontal" >
+
+                            <TextView
+                                android:id="@+id/t_region"
+                                android:layout_width="wrap_content"
+                                android:layout_height="fill_parent"
+                                android:gravity="center"
+                                android:text="@string/addcar_10"
+                                android:textColor="@color/gray"
+                                android:textSize="14sp" />
+
+                            <ImageView
+                                android:layout_width="20dp"
+                                android:layout_height="20dp"
+                                android:background="@drawable/icon_63" />
+                        </LinearLayout>
+                    </RelativeLayout>
+
+                    <ImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="1px"
+                        android:background="@color/gray_little5" />
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="left"
+                        android:orientation="horizontal" >
+
+                        <EditText
+                            android:id="@+id/ed_address"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:background="@color/white"
+                            android:ems="10"
+                            android:gravity="center_vertical"
+                            android:hint="@string/addcar_5"
+                            android:maxLength="50"
+                            android:paddingBottom="10dip"
+                            android:paddingTop="10dip"
+                            android:textColor="@color/black_little"
+                            android:textColorHint="@color/gray"
+                            android:textSize="14sp"
+                            android:typeface="normal" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="1px"
+                    android:layout_marginTop="20dp"
+                    android:background="@color/gray_little5" />
+
+                <RelativeLayout
+                    android:id="@+id/btn_default_address"
+                    android:layout_width="fill_parent"
+                    android:layout_height="50dp"
+                    android:background="@drawable/main_btn_bg1"
+                    android:orientation="vertical"
+                    android:paddingLeft="15dp"
+                    android:paddingRight="15dp" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="fill_parent"
+                        android:layout_alignParentLeft="true"
+                        android:gravity="center"
+                        android:text="@string/addcar_12"
+                        android:textColor="@color/black_little"
+                        android:textSize="14sp" />
+
+                    <ImageView
+                        android:id="@+id/img_default_address"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:background="@drawable/icon_63" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/btn_up"
+                    android:layout_width="fill_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginBottom="50dip"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginTop="30dip"
+                    android:background="@drawable/btn_login"
+                    android:scaleType="fitCenter" >
+
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_centerInParent="true"
+                        android:gravity="center"
+                        android:text="@string/addcar_9"
+                        android:textColor="@color/white"
+                        android:textSize="15sp" />
+                </RelativeLayout>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+</RelativeLayout>

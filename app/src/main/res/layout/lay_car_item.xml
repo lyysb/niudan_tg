@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lay_1"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/main_btn_bg1"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="top"
+        android:orientation="horizontal"
+        android:padding="16dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical|left"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/t_name"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:singleLine="true"
+                android:text="null"
+                android:textColor="@color/black"
+                android:textSize="13sp" />
+
+            <TextView
+                android:id="@+id/t_price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="null"
+                android:textColor="@color/nd_gray"
+                android:textSize="13sp" />
+
+            <TextView
+                android:id="@+id/t_eggnum"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="null"
+                android:textColor="@color/nd_red"
+                android:textSize="13sp" />
+
+            <TextView
+                android:id="@+id/t_date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="center"
+                android:text="null"
+                android:textColor="@color/nd_gray"
+                android:textSize="13sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:gravity="center_vertical|right"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/t_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:gravity="center"
+                android:text="null"
+                android:textColor="@color/black"
+                android:textSize="13sp" />
+
+            <TextView
+                android:id="@+id/t_todaynum"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="center"
+                android:text="null"
+                android:textColor="@color/gree"
+                android:textSize="13sp" />
+
+            <TextView
+                android:id="@+id/t_monuthnum"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="center"
+                android:text="null"
+                android:textColor="@color/gree"
+                android:textSize="13sp" />
+
+            <TextView
+                android:id="@+id/t_monuthnum2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="center"
+                android:text="null"
+                android:textColor="@color/gree"
+                android:textSize="13sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="1px"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/city_line" />
+
+    <LinearLayout
+        android:id="@+id/lay_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical|right"
+        android:orientation="horizontal"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/t_status"
+            android:layout_width="110dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="5dp"
+            android:text="null"
+            android:textColor="@color/gree"
+            android:textSize="13sp" />
+
+        <Button
+            android:id="@+id/btn_dk"
+            android:layout_width="80dp"
+            android:layout_height="30dp"
+            android:layout_marginRight="15dp"
+            android:background="@drawable/btn_dk"
+            android:gravity="center"
+            android:text="@string/car_bd_12"
+            android:textColor="@color/black_1"
+            android:textSize="14sp" />
+
+        <Button
+            android:id="@+id/btn_jb"
+            android:layout_width="80dp"
+            android:layout_height="30dp"
+            android:layout_marginRight="15dp"
+            android:background="@drawable/btn_login"
+            android:gravity="center"
+            android:text="@string/car_bd_8"
+            android:textColor="@color/black_1"
+            android:textSize="14sp" />
+
+        <Button
+            android:id="@+id/btn_updateprice"
+            android:layout_width="80dp"
+            android:layout_height="30dp"
+            android:background="@drawable/btn_login"
+            android:gravity="center"
+            android:text="@string/car_bd_10"
+            android:textColor="@color/black_1"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="5dp"
+        android:background="@drawable/city_line" />
+
+</LinearLayout>

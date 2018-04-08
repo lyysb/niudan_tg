@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="E:\niudan_tg\app\src\main\res"/><source path="E:\niudan_tg\app\build\generated\res\rs\debug"/><source path="E:\niudan_tg\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="E:\niudan_tg\app\src\main\res"><file name="btn_back" path="E:\niudan_tg\app\src\main\res\drawable\btn_back.xml" qualifiers="" type="drawable"/><file name="btn_jia" path="E:\niudan_tg\app\src\main\res\drawable\btn_jia.xml" qualifiers="" type="drawable"/><file name="btn_jian" path="E:\niudan_tg\app\src\main\res\drawable\btn_jian.xml" qualifiers="" type="drawable"/><file name="btn_login" path="E:\niudan_tg\app\src\main\res\drawable\btn_login.xml" qualifiers="" type="drawable"/><file name="btn_updateprice" path="E:\niudan_tg\app\src\main\res\drawable\btn_updateprice.xml" qualifiers="" type="drawable"/><file name="bus" path="E:\niudan_tg\app\src\main\res\drawable\bus.png" qualifiers="" type="drawable"/><file name="drive" path="E:\niudan_tg\app\src\main\res\drawable\drive.png" qualifiers="" type="drawable"/><file name="load_progressbar_style" path="E:\niudan_tg\app\src\main\res\drawable\load_progressbar_style.xml" qualifiers="" type="drawable"/><file name="main_bottom_bg" path="E:\niudan_tg\app\src\main\res\drawable\main_bottom_bg.xml" qualifiers="" type="drawable"/><file name="main_btn_bg1" path="E:\niudan_tg\app\src\main\res\drawable\main_btn_bg1.xml" qualifiers="" type="drawable"/><file name="main_img_1" path="E:\niudan_tg\app\src\main\res\drawable\main_img_1.xml" qualifiers="" type="drawable"/><file name="main_img_2" path="E:\niudan_tg\app\src\main\res\drawable\main_img_2.xml" qualifiers="" type="drawable"/><file name="walk" path="E:\niudan_tg\app\src\main\res\drawable\walk.png" qualifiers="" type="drawable"/><file name="btn_dk" path="E:\niudan_tg\app\src\main\res\drawable-hdpi\btn_dk.xml" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\niudan_tg\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="jz_shape" path="E:\niudan_tg\app\src\main\res\drawable-hdpi\jz_shape.xml" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\niudan_tg\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="city_line" path="E:\niudan_tg\app\src\main\res\drawable-xhdpi\city_line.png" qualifiers="xhdpi-v4" type="drawable"/><file name="dialog_bg" path="E:\niudan_tg\app\src\main\res\drawable-xhdpi\dialog_bg.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="dk" path="E:\niudan_tg\app\src\main\res\drawable-xhdpi\dk.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="edittext_icon" path="E:\niudan_tg\app\src\main\res\drawable-xhdpi\edittext_icon.png" qualifiers="xhdpi-v4" type="drawable"/><file name="empty_photo" path="E:\niudan_tg\app\src\main\res\drawable-xhdpi\empty_photo.png" qualifiers="xhdpi-v4" type="drawable"/><file name="face_happy" path="E:\niudan_tg\app\src\main\res\drawable-xhdpi\face_happy.png" qualifiers="xhdpi-v4" type="drawable"/><file name="huanchong_icon_bg" path="E:\niudan_tg\app\src\main\res\drawable-xhdpi\huanchong_icon_bg.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_63" path="E:\niudan_tg\app\src\main\res\drawable-xhdpi\icon_63.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_jian_down" path="E:\niudan_tg\app\src\main\res\drawable-xhdpi\icon_jian_down.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_jian_up" path="E:\niudan_tg\app\src\main\res\drawable-xhdpi\icon_jian_up.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_jia_down" path="E:\niudan_tg\app\src\main\res\drawable-xhdpi\icon_jia_down.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_jia_up" path="E:\niudan_tg\app\src\main\res\drawable-xhdpi\icon_jia_up.png" qualifiers="xhdpi-v4" type="drawable"/><file name="img_back_down" path="E:\niudan_tg\app\src\main\res\drawable-xhdpi\img_back_down.png" qualifiers="xhdpi-v4" type="drawable"/><file name="img_back_up" path="E:\niudan_tg\app\src\main\res\drawable-xhdpi\img_back_up.png" qualifiers="xhdpi-v4" type="drawable"/><file name="img_bg" path="E:\niudan_tg\app\src\main\res\drawable-xhdpi\img_bg.png" qualifiers="xhdpi-v4" type="drawable"/><file name="img_bg1" path="E:\niudan_tg\app\src\main\res\drawable-xhdpi\img_bg1.png" qualifiers="xhdpi-v4" type="drawable"/><file name="img_login_up" path="E:\niudan_tg\app\src\main\res\drawable-xhdpi\img_login_up.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="img_logion_down" path="E:\niudan_tg\app\src\main\res\drawable-xhdpi\img_logion_down.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="img_niudan" path="E:\niudan_tg\app\src\main\res\drawable-xhdpi\img_niudan.png" qualifiers="xhdpi-v4" type="drawable"/><file name="img_txjl_icon" path="E:\niudan_tg\app\src\main\res\drawable-xhdpi\img_txjl_icon.png" qualifiers="xhdpi-v4" type="drawable"/><file name="img_tx_bg" path="E:\niudan_tg\app\src\main\res\drawable-xhdpi\img_tx_bg.png" qualifiers="xhdpi-v4" type="drawable"/><file name="img_updateprice_down" path="E:\niudan_tg\app\src\main\res\drawable-xhdpi\img_updateprice_down.png" qualifiers="xhdpi-v4" type="drawable"/><file name="img_updateprice_up" path="E:\niudan_tg\app\src\main\res\drawable-xhdpi\img_updateprice_up.png" qualifiers="xhdpi-v4" type="drawable"/><file name="logo" path="E:\niudan_tg\app\src\main\res\drawable-xhdpi\logo.png" qualifiers="xhdpi-v4" type="drawable"/><file name="main_1_down" path="E:\niudan_tg\app\src\main\res\drawable-xhdpi\main_1_down.png" qualifiers="xhdpi-v4" type="drawable"/><file name="main_1_up" path="E:\niudan_tg\app\src\main\res\drawable-xhdpi\main_1_up.png" qualifiers="xhdpi-v4" type="drawable"/><file name="main_2_down" path="E:\niudan_tg\app\src\main\res\drawable-xhdpi\main_2_down.png" qualifiers="xhdpi-v4" type="drawable"/><file name="main_2_up" path="E:\niudan_tg\app\src\main\res\drawable-xhdpi\main_2_up.png" qualifiers="xhdpi-v4" type="drawable"/><file name="photo_kuang_03" path="E:\niudan_tg\app\src\main\res\drawable-xhdpi\photo_kuang_03.png" qualifiers="xhdpi-v4" type="drawable"/><file name="progressdialog_bg" path="E:\niudan_tg\app\src\main\res\drawable-xhdpi\progressdialog_bg.png" qualifiers="xhdpi-v4" type="drawable"/><file name="pull_to_refresh_arrow" path="E:\niudan_tg\app\src\main\res\drawable-xhdpi\pull_to_refresh_arrow.png" qualifiers="xhdpi-v4" type="drawable"/><file name="selector_plan_btn" path="E:\niudan_tg\app\src\main\res\drawable-xhdpi\selector_plan_btn.xml" qualifiers="xhdpi-v4" type="drawable"/><file name="xc_ic13" path="E:\niudan_tg\app\src\main\res\drawable-xhdpi\xc_ic13.png" qualifiers="xhdpi-v4" type="drawable"/><file name="xian_03" path="E:\niudan_tg\app\src\main\res\drawable-xhdpi\xian_03.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\niudan_tg\app\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_capture" path="E:\niudan_tg\app\src\main\res\layout\activity_capture.xml" qualifiers="" type="layout"/><file name="activity_road_plan" path="E:\niudan_tg\app\src\main\res\layout\activity_road_plan.xml" qualifiers="" type="layout"/><file name="customprogressdialog" path="E:\niudan_tg\app\src\main\res\layout\customprogressdialog.xml" qualifiers="" type="layout"/><file name="dialog_extension" path="E:\niudan_tg\app\src\main\res\layout\dialog_extension.xml" qualifiers="" type="layout"/><file name="dialog_get_img" path="E:\niudan_tg\app\src\main\res\layout\dialog_get_img.xml" qualifiers="" type="layout"/><file name="dialog_queren" path="E:\niudan_tg\app\src\main\res\layout\dialog_queren.xml" qualifiers="" type="layout"/><file name="layout_add_car" path="E:\niudan_tg\app\src\main\res\layout\layout_add_car.xml" qualifiers="" type="layout"/><file name="layout_card_bd" path="E:\niudan_tg\app\src\main\res\layout\layout_card_bd.xml" qualifiers="" type="layout"/><file name="layout_carinfo" path="E:\niudan_tg\app\src\main\res\layout\layout_carinfo.xml" qualifiers="" type="layout"/><file name="layout_carlist" path="E:\niudan_tg\app\src\main\res\layout\layout_carlist.xml" qualifiers="" type="layout"/><file name="layout_car_bd" path="E:\niudan_tg\app\src\main\res\layout\layout_car_bd.xml" qualifiers="" type="layout"/><file name="layout_customerlist" path="E:\niudan_tg\app\src\main\res\layout\layout_customerlist.xml" qualifiers="" type="layout"/><file name="layout_customer_location" path="E:\niudan_tg\app\src\main\res\layout\layout_customer_location.xml" qualifiers="" type="layout"/><file name="layout_edatalist" path="E:\niudan_tg\app\src\main\res\layout\layout_edatalist.xml" qualifiers="" type="layout"/><file name="layout_eggs" path="E:\niudan_tg\app\src\main\res\layout\layout_eggs.xml" qualifiers="" type="layout"/><file name="layout_extension" path="E:\niudan_tg\app\src\main\res\layout\layout_extension.xml" qualifiers="" type="layout"/><file name="layout_get_paymentboard" path="E:\niudan_tg\app\src\main\res\layout\layout_get_paymentboard.xml" qualifiers="" type="layout"/><file name="layout_login" path="E:\niudan_tg\app\src\main\res\layout\layout_login.xml" qualifiers="" type="layout"/><file name="layout_main" path="E:\niudan_tg\app\src\main\res\layout\layout_main.xml" qualifiers="" type="layout"/><file name="layout_new_extensionstaff" path="E:\niudan_tg\app\src\main\res\layout\layout_new_extensionstaff.xml" qualifiers="" type="layout"/><file name="layout_order" path="E:\niudan_tg\app\src\main\res\layout\layout_order.xml" qualifiers="" type="layout"/><file name="layout_regionlist" path="E:\niudan_tg\app\src\main\res\layout\layout_regionlist.xml" qualifiers="" type="layout"/><file name="layout_set" path="E:\niudan_tg\app\src\main\res\layout\layout_set.xml" qualifiers="" type="layout"/><file name="layout_set_customerinfo" path="E:\niudan_tg\app\src\main\res\layout\layout_set_customerinfo.xml" qualifiers="" type="layout"/><file name="layout_set_customerinfo2" path="E:\niudan_tg\app\src\main\res\layout\layout_set_customerinfo2.xml" qualifiers="" type="layout"/><file name="layout_statistics" path="E:\niudan_tg\app\src\main\res\layout\layout_statistics.xml" qualifiers="" type="layout"/><file name="layout_updateprice" path="E:\niudan_tg\app\src\main\res\layout\layout_updateprice.xml" qualifiers="" type="layout"/><file name="layout_update_passward" path="E:\niudan_tg\app\src\main\res\layout\layout_update_passward.xml" qualifiers="" type="layout"/><file name="layout_update_phone" path="E:\niudan_tg\app\src\main\res\layout\layout_update_phone.xml" qualifiers="" type="layout"/><file name="layout_up_customerreward" path="E:\niudan_tg\app\src\main\res\layout\layout_up_customerreward.xml" qualifiers="" type="layout"/><file name="layout_web" path="E:\niudan_tg\app\src\main\res\layout\layout_web.xml" qualifiers="" type="layout"/><file name="lay_car_item" path="E:\niudan_tg\app\src\main\res\layout\lay_car_item.xml" qualifiers="" type="layout"/><file name="lay_customer_item" path="E:\niudan_tg\app\src\main\res\layout\lay_customer_item.xml" qualifiers="" type="layout"/><file name="lay_egg" path="E:\niudan_tg\app\src\main\res\layout\lay_egg.xml" qualifiers="" type="layout"/><file name="lay_eggrecord" path="E:\niudan_tg\app\src\main\res\layout\lay_eggrecord.xml" qualifiers="" type="layout"/><file name="lay_extension_item" path="E:\niudan_tg\app\src\main\res\layout\lay_extension_item.xml" qualifiers="" type="layout"/><file name="lay_order_item" path="E:\niudan_tg\app\src\main\res\layout\lay_order_item.xml" qualifiers="" type="layout"/><file name="lay_region_item" path="E:\niudan_tg\app\src\main\res\layout\lay_region_item.xml" qualifiers="" type="layout"/><file name="lay_sign" path="E:\niudan_tg\app\src\main\res\layout\lay_sign.xml" qualifiers="" type="layout"/><file name="suggestion_list_item" path="E:\niudan_tg\app\src\main\res\layout\suggestion_list_item.xml" qualifiers="" type="layout"/><file name="xlistview_footer" path="E:\niudan_tg\app\src\main\res\layout\xlistview_footer.xml" qualifiers="" type="layout"/><file name="xlistview_header" path="E:\niudan_tg\app\src\main\res\layout\xlistview_header.xml" qualifiers="" type="layout"/><file name="beep" path="E:\niudan_tg\app\src\main\res\raw\beep.ogg" qualifiers="" type="raw"/><file name="realm_properties" path="E:\niudan_tg\app\src\main\res\raw\realm_properties" qualifiers="" type="raw"/><file path="E:\niudan_tg\app\src\main\res\values\attr.xml" qualifiers=""><declare-styleable name="CustomProgressBar">
+        <attr format="color" name="progressColor"/>
+        <attr format="color" name="progressDescColor"/>
+        <attr format="dimension" name="progressRadius"/>
+        <attr format="integer" name="max"/>
+        <attr format="integer" name="progress"/>
+        <attr format="dimension" name="borderWidth"/>
+        <attr format="string" name="progressDesc"/>
+        <attr format="boolean" name="isShowDesc"/>
+    </declare-styleable><declare-styleable name="TimeTextView"/></file><file path="E:\niudan_tg\app\src\main\res\values\color.xml" qualifiers=""><color name="main_color">#ff3700</color><color name="background_main">#f3f3f3</color><color name="background_transparent">#00FFFFFF</color><color name="ed_bg">#f3f3f3</color><color name="bg_main_gray">#eee</color><color name="black">#181818</color><color name="black_little">#636363</color><color name="black_1">#242729</color><color name="black_2">#222223</color><color name="top_black_bg">#050b16</color><color name="red">#f61f38</color><color name="red1">#fcf1f0</color><color name="blue">#3e54fa</color><color name="blue1">#7281d1</color><color name="orange">#EEB422</color><color name="white">#ffffff</color><color name="gray">#949494</color><color name="gray_1">#efeeee</color><color name="Orange2">#fe5629</color><color name="Orange3">#de5302</color><color name="gray_little">#f9f9f9</color><color name="gray_little3">#f5f6f8</color><color name="gray_little4">#efefef</color><color name="gray_little1">#afafaf</color><color name="gray_little2">#e3e3e3</color><color name="gray_little5">#dfdfe0</color><color name="main_gray_little">#999999</color><color name="gray_little6">#9a9a9a</color><color name="main_Green">#37b059</color><color name="transparent">#00000000</color><color name="main_orange">#ff6633</color><color name="main_btn_up">#f7f7f7</color><color name="main_btn_down">#d8d8d8</color><color name="yellow1">#ff8c00</color><color name="green1">#abe6b0</color><color name="logocolor">#ff4200</color><color name="welcome_bg">#f8f8f8</color><color name="red_1">#fae1ba</color><color name="red_3">#fbecd6</color><color name="main_color1">#d5b687</color><color name="main_color2">#ac8447</color><color name="main_color3">#f1dcbe</color><color name="blue_1">#6ec2ed</color><color name="yellow_1">#fec400</color><color name="white_1">#fad0c5</color><color name="red_2">#fc6062</color><color name="result_view">#b0000000</color><color name="viewfinder_mask">#60000000</color><color name="possible_result_points">#c0ffff00</color><color name="transparent_white">#ddffffff</color><color name="transparent_orange">#ddff9933</color><color name="gree">#6bc823</color><color name="nd_red">#e35a54</color><color name="nd_gray">#7c7971</color><color name="edit_color">#908e88</color><color name="edit_color1">#faf9f9</color></file><file path="E:\niudan_tg\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="activity_vertical_margin">16dp</dimen></file><file path="E:\niudan_tg\app\src\main\res\values\ids.xml" qualifiers=""><item name="auto_focus" type="id"/><item name="decode" type="id"/><item name="decode_failed" type="id"/><item name="decode_succeeded" type="id"/><item name="encode_failed" type="id"/><item name="encode_succeeded" type="id"/><item name="launch_product_query" type="id"/><item name="quit" type="id"/><item name="restart_preview" type="id"/><item name="return_scan_result" type="id"/><item name="search_book_contents_failed" type="id"/><item name="search_book_contents_succeeded" type="id"/><item name="gridview" type="id"/><item name="webview" type="id"/><item name="about_version_code" type="id">false</item><item name="split" type="id">false</item></file><file path="E:\niudan_tg\app\src\main\res\values\pla__attrs.xml" qualifiers=""><attr format="reference" name="absListViewStyle"/><attr format="reference" name="listViewStyle"/><declare-styleable name="PinterestLikeAdapterView">
+        <attr format="integer" name="plaColumnNumber"/>
+        <attr format="integer" name="plaLandscapeColumnNumber"/>
+        <attr format="dimension" name="plaColumnPaddingLeft"/>
+        <attr format="dimension" name="plaColumnPaddingRight"/>
+    </declare-styleable><declare-styleable name="View">
+
+        
+        <attr format="reference" name="id"/>
+
+        
+        <attr format="string" name="tag"/>
+
+        
+        <attr format="dimension" name="scrollX"/>
+
+        
+        <attr format="dimension" name="scrollY"/>
+
+        
+
+
+        
+
+
+        
+
+
+        
+        <attr format="boolean" name="focusable"/>
+
+        
+        <attr format="boolean" name="focusableInTouchMode"/>
+
+        
+        <attr name="visibility">
+
+            
+            <enum name="visible" value="0"/>
+            
+            <enum name="invisible" value="1"/>
+            
+            <enum name="gone" value="2"/>
+        </attr>
+
+        
+        <attr format="boolean" name="fitsSystemWindows"/>
+
+        
+        <attr name="scrollbars">
+
+            
+            <flag name="none" value="0x00000000"/>
+            
+            <flag name="horizontal" value="0x00000100"/>
+            
+            <flag name="vertical" value="0x00000200"/>
+        </attr>
+
+        
+        <attr name="scrollbarStyle">
+
+            
+            <enum name="insideOverlay" value="0x0"/>
+            
+            <enum name="insideInset" value="0x01000000"/>
+            
+            <enum name="outsideOverlay" value="0x02000000"/>
+            
+            <enum name="outsideInset" value="0x03000000"/>
+        </attr>
+
+        
+        <attr format="boolean" name="isScrollContainer"/>
+
+        
+        <attr format="boolean" name="fadeScrollbars"/>
+        
+        <attr format="integer" name="scrollbarFadeDuration"/>
+        
+        <attr format="integer" name="scrollbarDefaultDelayBeforeFade"/>
+        
+        <attr format="dimension" name="scrollbarSize"/>
+        
+        <attr format="reference" name="scrollbarThumbHorizontal"/>
+        
+        <attr format="reference" name="scrollbarThumbVertical"/>
+        
+        <attr format="reference" name="scrollbarTrackHorizontal"/>
+        
+        <attr format="reference" name="scrollbarTrackVertical"/>
+        
+        <attr format="boolean" name="scrollbarAlwaysDrawHorizontalTrack"/>
+        
+        <attr format="boolean" name="scrollbarAlwaysDrawVerticalTrack"/>
+
+        
+        <attr name="fadingEdge">
+
+            
+            <flag name="none" value="0x00000000"/>
+            
+            <flag name="horizontal" value="0x00001000"/>
+            
+            <flag name="vertical" value="0x00002000"/>
+        </attr>
+        
+        <attr name="requiresFadingEdge">
+
+            
+            <flag name="none" value="0x00000000"/>
+            
+            <flag name="horizontal" value="0x00001000"/>
+            
+            <flag name="vertical" value="0x00002000"/>
+        </attr>
+        
+        <attr format="dimension" name="fadingEdgeLength"/>
+
+        
+        <attr format="reference" name="nextFocusLeft"/>
+
+        
+        <attr format="reference" name="nextFocusRight"/>
+
+        
+        <attr format="reference" name="nextFocusUp"/>
+
+        
+        <attr format="reference" name="nextFocusDown"/>
+
+        
+        <attr format="reference" name="nextFocusForward"/>
+
+        
+        <attr format="boolean" name="clickable"/>
+
+        
+        <attr format="boolean" name="longClickable"/>
+
+        
+        <attr format="boolean" name="saveEnabled"/>
+
+        
+        <attr format="boolean" name="filterTouchesWhenObscured"/>
+
+        
+        <attr name="drawingCacheQuality">
+
+            
+            <enum name="auto" value="0"/>
+            
+            <enum name="low" value="1"/>
+            
+            <enum name="high" value="2"/>
+        </attr>
+
+        
+        <attr format="boolean" name="keepScreenOn"/>
+
+        
+        <attr format="boolean" name="duplicateParentState"/>
+
+        
+        <attr format="dimension" name="minHeight"/>
+
+        
+        <attr format="dimension" name="minWidth"/>
+
+        
+        <attr format="boolean" name="soundEffectsEnabled"/>
+
+        
+        <attr format="boolean" name="hapticFeedbackEnabled"/>
+
+        
+        <attr format="string" localization="suggested" name="contentDescription"/>
+
+        
+        <attr format="string" name="onClick"/>
+
+        
+        <attr name="overScrollMode">
+
+            
+            <enum name="always" value="0"/>
+            
+            <enum name="ifContentScrolls" value="1"/>
+            
+            <enum name="never" value="2"/>
+        </attr>
+
+        
+        <attr format="float" name="alpha"/>
+
+        
+        <attr format="dimension" name="translationX"/>
+
+        
+        <attr format="dimension" name="translationY"/>
+
+        
+        <attr format="dimension" name="transformPivotX"/>
+
+        
+        <attr format="dimension" name="transformPivotY"/>
+
+        
+        <attr format="float" name="rotation"/>
+
+        
+        <attr format="float" name="rotationX"/>
+
+        
+        <attr format="float" name="rotationY"/>
+
+        
+        <attr format="float" name="scaleX"/>
+
+        
+        <attr format="float" name="scaleY"/>
+
+        
+        <attr name="verticalScrollbarPosition">
+
+            
+            <enum name="defaultPosition" value="0"/>
+            
+            <enum name="left" value="1"/>
+            
+            <enum name="right" value="2"/>
+        </attr>
+
+        
+        <attr name="layerType">
+
+            
+            <enum name="none" value="0"/>
+            
+            <enum name="software" value="1"/>
+            
+            <enum name="hardware" value="2"/>
+        </attr>
+
+        
+        <attr name="layoutDirection">
+
+            
+            <enum name="ltr" value="0"/>
+            
+            <enum name="rtl" value="1"/>
+            
+            <enum name="inherit" value="2"/>
+            
+            <enum name="locale" value="3"/>
+        </attr>
+
+        
+        <attr format="integer" name="textDirection">
+
+            
+            <enum name="inherit" value="0"/>
+            
+            <enum name="firstStrong" value="1"/>
+            
+            <enum name="anyRtl" value="2"/>
+            
+            <enum name="ltr" value="3"/>
+            
+            <enum name="rtl" value="4"/>
+            
+            <enum name="locale" value="5"/>
+        </attr>
+
+        
+        <attr format="integer" name="textAlignment">
+
+            
+            <enum name="inherit" value="0"/>
+            
+            <enum name="gravity" value="1"/>
+            
+            <enum name="textStart" value="2"/>
+            
+            <enum name="textEnd" value="3"/>
+            
+            <enum name="center" value="4"/>
+            
+            <enum name="viewStart" value="5"/>
+            
+            <enum name="viewEnd" value="6"/>
+        </attr>
+
+        
+        <attr format="integer" name="importantForAccessibility">
+
+            
+            <enum name="auto" value="0"/>
+            
+            <enum name="yes" value="1"/>
+            
+            <enum name="no" value="2"/>
+        </attr>
+
+        
+        <attr format="integer" name="accessibilityFocusable">
+
+            
+            <enum name="auto" value="0"/>
+            
+            <enum name="yes" value="1"/>
+            
+            <enum name="no" value="2"/>
+        </attr>
+    </declare-styleable><declare-styleable name="ViewGroup">
+
+        
+        <attr format="boolean" name="animateLayoutChanges"/>
+        
+        <attr format="boolean" name="clipChildren"/>
+        
+        <attr format="boolean" name="clipToPadding"/>
+        
+        <attr format="reference" name="layoutAnimation"/>
+        
+        <attr format="boolean" name="animationCache"/>
+        
+        <attr name="persistentDrawingCache">
+
+            
+            <flag name="none" value="0x0"/>
+            
+            <flag name="animation" value="0x1"/>
+            
+            <flag name="scrolling" value="0x2"/>
+            
+            <flag name="all" value="0x3"/>
+        </attr>
+        
+        <attr format="boolean" name="alwaysDrawnWithCache"/>
+        
+        <attr format="boolean" name="addStatesFromChildren"/>
+
+        
+        <attr name="descendantFocusability">
+
+            
+            <enum name="beforeDescendants" value="0"/>
+            
+            <enum name="afterDescendants" value="1"/>
+            
+            <enum name="blocksDescendants" value="2"/>
+        </attr>
+
+        
+        <attr format="boolean" name="splitMotionEvents"/>
+    </declare-styleable><declare-styleable name="AbsListView">
+
+        
+        <attr format="color|reference" name="listSelector"/>
+        
+        <attr format="boolean" name="drawSelectorOnTop"/>
+        
+        <attr format="boolean" name="stackFromBottom"/>
+        
+        <attr format="boolean" name="scrollingCache"/>
+        
+        <attr format="boolean" name="textFilterEnabled"/>
+        
+        <attr name="transcriptMode">
+
+            
+            <enum name="disabled" value="0"/>
+            
+            <enum name="normal" value="1"/>
+            
+            <enum name="alwaysScroll" value="2"/>
+        </attr>
+        
+        <attr format="color" name="cacheColorHint"/>
+        
+        <attr format="boolean" name="fastScrollEnabled"/>
+        
+        <attr format="boolean" name="smoothScrollbar"/>
+        
+        <attr name="choiceMode">
+
+            
+            <enum name="none" value="0"/>
+            
+            <enum name="singleChoice" value="1"/>
+            
+            <enum name="multipleChoice" value="2"/>
+            
+            <enum name="multipleChoiceModal" value="3"/>
+        </attr>
+
+        
+        <attr format="boolean" name="fastScrollAlwaysVisible"/>
+    </declare-styleable><declare-styleable name="ListView">
+
+        
+		
+        
+        <attr format="dimension" name="dividerHeight"/>
+        
+        <attr format="boolean" name="headerDividersEnabled"/>
+        
+        <attr format="boolean" name="footerDividersEnabled"/>
+        
+        <attr format="reference|color" name="overScrollHeader"/>
+        
+        
+        <attr format="reference|color" name="overScrollFooter"/>
+    </declare-styleable></file><file path="E:\niudan_tg\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">扭蛋_推广</string><string name="listview_footer">加载中...</string><string name="Ensure">确定</string><string name="Cancel">取消</string><string name="scan_text">将二维码放入框内, 即可自动扫描</string><string name="getimg_1">去拍照</string><string name="getimg_2">去手机相册</string><string name="xlistview_header_hint_normal">下拉刷新</string><string name="xlistview_header_hint_ready">松开刷新数据</string><string name="xlistview_header_hint_loading">加载中...</string><string name="xlistview_header_last_time">上次更新时间：</string><string name="xlistview_footer_hint_normal">查看更多</string><string name="xlistview_footer_hint_ready">松开载入更多</string><string name="xlistview_footer_hint_null">现在还没有记录哦！</string><string name="xlistview_footer_hint_end">已经到最后了</string><string name="main_1">推广管理</string><string name="main_2">商家列表</string><string name="main_3">签到管理</string><string name="main_4">启动设备</string><string name="main_5">上传商家信息</string><string name="main_6">团队成员管理</string><string name="main_7">设置</string><string name="main_8">数据统计</string><string name="main_9">经纬度</string><string name="main_10">设备绑定</string><string name="main_11">推广资料</string><string name="main_12">设备信息查询</string><string name="main_13">商户定位上传</string><string name="main_14">订单管理</string><string name="main_15">支付模块绑定</string><string name="main_16">支付板状态查询</string><string name="main_17">团队成员管理</string><string name="sign_1">签到管理</string><string name="sign_2">姓名：</string><string name="sign_3">工号：</string><string name="sign_4">时间：</string><string name="sign_5">签到</string><string name="t_login">登陆</string><string name="t_login_1">手机号码</string><string name="t_login_2">密码</string><string name="t_login_3">获取验证码</string><string name="t_login_4">登陆</string><string name="t_login_5">确认加入即视为同意</string><string name="t_login_6">《唯先用户协议》</string><string name="t_login_7">第三方登陆</string><string name="t_login_8">验证</string><string name="customer_1">商户管理</string><string name="customer_2">商户名称</string><string name="customer_3">电话</string><string name="customer_4">联系人</string><string name="customer_5">地址</string><string name="customer_6">余额</string><string name="customer_7">已结算金额</string><string name="customer_8">开户银行</string><string name="customer_9">银行账号</string><string name="customer_10">账户名称</string><string name="customer_11">注册日期</string><string name="customer_12">状态</string><string name="carlist_1">设备列表</string><string name="carlist_2">没有检索到设备.</string><string name="set_customerinfo_1">上传商户信息</string><string name="customerinfo_2">店铺名称</string><string name="customerinfo_4">经度:</string><string name="customerinfo_5">纬度:</string><string name="customerinfo_7">银行账户信息</string><string name="customerinfo_8">联系人</string><string name="customerinfo_9">联系电话</string><string name="customerinfo_10">联系地址</string><string name="customerinfo_11">保存</string><string name="customerinfo_12">定位</string><string name="customerinfo_13">定位地址:</string><string name="customerinfo_14">无定位上传</string><string name="customerinfo_15">租金金额：</string><string name="customerinfo_16">场地类型：</string><string name="customerinfo_17">店铺类型：</string><string name="customerinfo_18">每月租金</string><string name="customerinfo_19">室内</string><string name="customerinfo_20">室外</string><string name="customerinfo_21">店铺属性（非必须）</string><string name="customerinfo_22">备注(非必须)：</string><string name="customerinfo_23">备注信息录入</string><string name="customerinfo_24">门口照片：</string><string name="customerinfo_25">合同照片：</string><string name="customerinfo_26">设备台数和类别（必填）：</string><string name="customerinfo_27">例：扭蛋机2台</string><string name="region_1">选择区域</string><string name="region_2">全国</string><string name="extension_1">团队成员</string><string name="extension_2">ID</string><string name="extension_3">姓名</string><string name="extension_4">电话</string><string name="extension_5">城市</string><string name="extension_6">状态</string><string name="extension_7">入职时间</string><string name="extension_8">新建成员</string><string name="dh_1">导航</string><string name="dh_2">商家ID</string><string name="dh_3">输入商家ID</string><string name="dh_4">查询</string><string name="dh_5">店铺名称：</string><string name="dh_6">联系人：</string><string name="dh_7">地址：</string><string name="dh_8">导航</string><string name="dh_9">电话：</string><string name="dh_10">路线</string><string name="dh_11">步行</string><string name="dh_12">驾车</string><string name="dh_13">公交</string><string name="dh_14">商户ID：</string><string name="dh_15">状态：</string><string name="dh_16">微信绑定：</string><string name="dh_17">备注：</string><string name="dh_18">输入商家手机号</string><string name="car_bd_1">检索商家信息</string><string name="car_bd_2">商户ID</string><string name="car_bd_3">商户ID</string><string name="car_bd_4">绑定设备</string><string name="car_bd_5">设备列表</string><string name="car_bd_6">绑定设备</string><string name="car_bd_7">换手机号</string><string name="car_bd_8">解绑设备</string><string name="car_bd_9">解绑设备</string><string name="car_bd_10">修改信息</string><string name="car_bd_11">上传备注</string><string name="car_bd_12">蛋壳管理</string><string name="addcar_1">增加设备</string><string name="addcar_2">设备编号</string><string name="addcar_3">分成金额</string><string name="addcar_4">安装地区</string><string name="addcar_5">详细地址</string><string name="addcar_6">设置价格</string><string name="addcar_7">1元</string><string name="addcar_8">2元</string><string name="addcar_9">保存</string><string name="addcar_10">请选择</string><string name="addcar_11">0</string><string name="addcar_12">使用基本信息地址</string><string name="addcar_13">二维码上的编号</string><string name="addcar_14">设置分成</string><string name="addcar_15">元</string><string name="addcar_16">.1234567890</string><string name="addcar_17">50%</string><string name="updatephone_1"> 修改电话</string><string name="updatephone_2">提交</string><string name="updatephone_3">11位手机号</string><string name="updatephone_5">原号码：</string><string name="updatephone_6">新号码：</string><string name="updatephone_7">店名：</string><string name="edata_1">推广资料</string><string name="carinfo_1">设备信息</string><string name="carinfo_2">设备编号</string><string name="carinfo_3">设备编号</string><string name="carinfo_6">绑定商户Id：</string><string name="carinfo_4">查询</string><string name="carinfo_5">设备编号：</string><string name="carinfo_8">价格：</string><string name="carinfo_7">地址：</string><string name="carinfo_9">状态：</string><string name="carinfo_10">支付板编号：</string><string name="carinfo_11">组合编号：</string><string name="carinfo_12">支付板5位编号</string><string name="carinfo_13">1234567890/</string><string name="custmer_location_1">商户定位上传</string><string name="custmer_location_2">商户ID</string><string name="custmer_location_3">商户ID</string><string name="custmer_location_4">查询</string><string name="custmer_location_5">商户名称：</string><string name="custmer_location_6">地址：</string><string name="custmer_location_7">经度：</string><string name="custmer_location_8">纬度：</string><string name="custmer_location_9">定位</string><string name="custmer_location_10">提交</string><string name="updatepassword_1">修改密码</string><string name="updatepassword_2">原密码</string><string name="updatepassword_3">新密码</string><string name="updatepassword_4">确认新密码</string><string name="updatepassword_5">提交</string><string name="set_1">设置</string><string name="set_2">修改密码</string><string name="set_3">退出</string><string name="updateprice_1"> 修改价格</string><string name="updateprice_2">提交</string><string name="updateprice_3">建议价格区间为1-10元</string><string name="updateprice_4">0123456789.</string><string name="updateprice_5">设备名称：</string><string name="updateprice_6">原价：</string><string name="updateprice_7">新价：</string><string name="creward_1">商户备注上传</string><string name="creward_2">商户ID：</string><string name="creward_3">备注信息</string><string name="creward_4">提交</string><string name="creward_5">商户名称：</string><string name="statistics_1">数据统计</string><string name="statistics_2">扫描总数：</string><string name="statistics_3">成功订单数：</string><string name="statistics_4">退单数：</string><string name="statistics_5">收入：</string><string name="statistics_6">用户注册数：</string><string name="statistics_7">用户总数：</string><string name="statistics_8">设备总数：</string><string name="statistics_9">累计订单数：</string><string name="statistics_10">累计收入：</string><string name="order_1">订单管理</string><string name="order_2">头像</string><string name="order_3">用户名</string><string name="order_4">金额</string><string name="order_5">支付</string><string name="order_6">启动状态</string><string name="order_7">时间</string><string name="order_8">设备编号</string><string name="order_9">城市</string><string name="card_1"> 扭蛋机支付模块状态</string><string name="card_2"> 扭蛋机编号：</string><string name="card_3">绑定状态：</string><string name="card_4">输入支付模块ID</string><string name="card_5">选择扭蛋机组合编号：</string><string name="card_6">绑定</string><string name="card_8">解绑</string><string name="card_7">必填</string><string name="new_ef_1">创建推广员</string><string name="new_ef_2">运营商姓名</string><string name="new_ef_3">电话</string><string name="new_ef_4">城市区域</string><string name="new_ef_5">公司员工</string><string name="new_ef_6">运营商员工</string><string name="new_ef_7">运营商主管</string><string name="new_ef_8">提交</string><string name="new_ef_9">类型</string><string name="new_ef_10">绑定权限</string><string name="new_ef_11">开</string><string name="new_ef_12">密码</string><string name="new_ef_13">是否主管</string><string name="new_ef_14">是否在职</string><string name="new_ef_15">在职</string><string name="new_ef_16">团队成员</string><string name="dialog_e_1">名下商户列表</string><string name="dialog_e_2">信息修改</string><string name="dialog_e_3">取消</string><string name="egg_1">蛋壳管理</string><string name="egg_num">输入投放投蛋数量</string><string name="submit">提交</string><string name="context">蛋壳内容，不少于3个字</string><string name="shebei">  设备编号</string><string name="egg_leiji">累计出蛋</string><string name="egg_rijun">日均出蛋</string><string name="egg_save">当前存蛋量</string><string name="egg_recode">投蛋记录</string><string name="egg_tou">投蛋</string></file><file path="E:\niudan_tg\app\src\main\res\values\styles.xml" qualifiers=""><style name="Theme.Dialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@color/background_transparent</item>
+    </style><style name="Theme.CustomDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        
+        <item name="android:windowIsTranslucent">true</item>
+        
+        <item name="android:windowFullscreen">true</item>
+        
+    </style></file></source><source path="E:\niudan_tg\app\build\generated\res\rs\debug"/><source path="E:\niudan_tg\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="E:\niudan_tg\app\src\debug\res"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="E:\niudan_tg\app\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="ListView"><attr format="dimension" name="dividerHeight"/><attr format="boolean" name="headerDividersEnabled"/><attr format="boolean" name="footerDividersEnabled"/><attr format="reference|color" name="overScrollHeader"/><attr format="reference|color" name="overScrollFooter"/></declare-styleable><declare-styleable name="ViewGroup"><attr format="boolean" name="animateLayoutChanges"/><attr format="boolean" name="clipChildren"/><attr format="boolean" name="clipToPadding"/><attr format="reference" name="layoutAnimation"/><attr format="boolean" name="animationCache"/><attr name="persistentDrawingCache">
+
+            
+            <flag name="none" value="0x0"/>
+            
+            <flag name="animation" value="0x1"/>
+            
+            <flag name="scrolling" value="0x2"/>
+            
+            <flag name="all" value="0x3"/>
+        </attr><attr format="boolean" name="alwaysDrawnWithCache"/><attr format="boolean" name="addStatesFromChildren"/><attr name="descendantFocusability">
+
+            
+            <enum name="beforeDescendants" value="0"/>
+            
+            <enum name="afterDescendants" value="1"/>
+            
+            <enum name="blocksDescendants" value="2"/>
+        </attr><attr format="boolean" name="splitMotionEvents"/></declare-styleable><declare-styleable name="CustomProgressBar"><attr format="color" name="progressColor"/><attr format="color" name="progressDescColor"/><attr format="dimension" name="progressRadius"/><attr format="integer" name="max"/><attr format="integer" name="progress"/><attr format="dimension" name="borderWidth"/><attr format="string" name="progressDesc"/><attr format="boolean" name="isShowDesc"/></declare-styleable><declare-styleable name="AbsListView"><attr format="color|reference" name="listSelector"/><attr format="boolean" name="drawSelectorOnTop"/><attr format="boolean" name="stackFromBottom"/><attr format="boolean" name="scrollingCache"/><attr format="boolean" name="textFilterEnabled"/><attr name="transcriptMode">
+
+            
+            <enum name="disabled" value="0"/>
+            
+            <enum name="normal" value="1"/>
+            
+            <enum name="alwaysScroll" value="2"/>
+        </attr><attr format="color" name="cacheColorHint"/><attr format="boolean" name="fastScrollEnabled"/><attr format="boolean" name="smoothScrollbar"/><attr name="choiceMode">
+
+            
+            <enum name="none" value="0"/>
+            
+            <enum name="singleChoice" value="1"/>
+            
+            <enum name="multipleChoice" value="2"/>
+            
+            <enum name="multipleChoiceModal" value="3"/>
+        </attr><attr format="boolean" name="fastScrollAlwaysVisible"/></declare-styleable><declare-styleable name="TimeTextView"/><declare-styleable name="View"><attr format="reference" name="id"/><attr format="string" name="tag"/><attr format="dimension" name="scrollX"/><attr format="dimension" name="scrollY"/><attr format="boolean" name="focusable"/><attr format="boolean" name="focusableInTouchMode"/><attr name="visibility">
+
+            
+            <enum name="visible" value="0"/>
+            
+            <enum name="invisible" value="1"/>
+            
+            <enum name="gone" value="2"/>
+        </attr><attr format="boolean" name="fitsSystemWindows"/><attr name="scrollbars">
+
+            
+            <flag name="none" value="0x00000000"/>
+            
+            <flag name="horizontal" value="0x00000100"/>
+            
+            <flag name="vertical" value="0x00000200"/>
+        </attr><attr name="scrollbarStyle">
+
+            
+            <enum name="insideOverlay" value="0x0"/>
+            
+            <enum name="insideInset" value="0x01000000"/>
+            
+            <enum name="outsideOverlay" value="0x02000000"/>
+            
+            <enum name="outsideInset" value="0x03000000"/>
+        </attr><attr format="boolean" name="isScrollContainer"/><attr format="boolean" name="fadeScrollbars"/><attr format="integer" name="scrollbarFadeDuration"/><attr format="integer" name="scrollbarDefaultDelayBeforeFade"/><attr format="dimension" name="scrollbarSize"/><attr format="reference" name="scrollbarThumbHorizontal"/><attr format="reference" name="scrollbarThumbVertical"/><attr format="reference" name="scrollbarTrackHorizontal"/><attr format="reference" name="scrollbarTrackVertical"/><attr format="boolean" name="scrollbarAlwaysDrawHorizontalTrack"/><attr format="boolean" name="scrollbarAlwaysDrawVerticalTrack"/><attr name="fadingEdge">
+
+            
+            <flag name="none" value="0x00000000"/>
+            
+            <flag name="horizontal" value="0x00001000"/>
+            
+            <flag name="vertical" value="0x00002000"/>
+        </attr><attr name="requiresFadingEdge">
+
+            
+            <flag name="none" value="0x00000000"/>
+            
+            <flag name="horizontal" value="0x00001000"/>
+            
+            <flag name="vertical" value="0x00002000"/>
+        </attr><attr format="dimension" name="fadingEdgeLength"/><attr format="reference" name="nextFocusLeft"/><attr format="reference" name="nextFocusRight"/><attr format="reference" name="nextFocusUp"/><attr format="reference" name="nextFocusDown"/><attr format="reference" name="nextFocusForward"/><attr format="boolean" name="clickable"/><attr format="boolean" name="longClickable"/><attr format="boolean" name="saveEnabled"/><attr format="boolean" name="filterTouchesWhenObscured"/><attr name="drawingCacheQuality">
+
+            
+            <enum name="auto" value="0"/>
+            
+            <enum name="low" value="1"/>
+            
+            <enum name="high" value="2"/>
+        </attr><attr format="boolean" name="keepScreenOn"/><attr format="boolean" name="duplicateParentState"/><attr format="dimension" name="minHeight"/><attr format="dimension" name="minWidth"/><attr format="boolean" name="soundEffectsEnabled"/><attr format="boolean" name="hapticFeedbackEnabled"/><attr format="string" localization="suggested" name="contentDescription"/><attr format="string" name="onClick"/><attr name="overScrollMode">
+
+            
+            <enum name="always" value="0"/>
+            
+            <enum name="ifContentScrolls" value="1"/>
+            
+            <enum name="never" value="2"/>
+        </attr><attr format="float" name="alpha"/><attr format="dimension" name="translationX"/><attr format="dimension" name="translationY"/><attr format="dimension" name="transformPivotX"/><attr format="dimension" name="transformPivotY"/><attr format="float" name="rotation"/><attr format="float" name="rotationX"/><attr format="float" name="rotationY"/><attr format="float" name="scaleX"/><attr format="float" name="scaleY"/><attr name="verticalScrollbarPosition">
+
+            
+            <enum name="defaultPosition" value="0"/>
+            
+            <enum name="left" value="1"/>
+            
+            <enum name="right" value="2"/>
+        </attr><attr name="layerType">
+
+            
+            <enum name="none" value="0"/>
+            
+            <enum name="software" value="1"/>
+            
+            <enum name="hardware" value="2"/>
+        </attr><attr name="layoutDirection">
+
+            
+            <enum name="ltr" value="0"/>
+            
+            <enum name="rtl" value="1"/>
+            
+            <enum name="inherit" value="2"/>
+            
+            <enum name="locale" value="3"/>
+        </attr><attr format="integer" name="textDirection">
+
+            
+            <enum name="inherit" value="0"/>
+            
+            <enum name="firstStrong" value="1"/>
+            
+            <enum name="anyRtl" value="2"/>
+            
+            <enum name="ltr" value="3"/>
+            
+            <enum name="rtl" value="4"/>
+            
+            <enum name="locale" value="5"/>
+        </attr><attr format="integer" name="textAlignment">
+
+            
+            <enum name="inherit" value="0"/>
+            
+            <enum name="gravity" value="1"/>
+            
+            <enum name="textStart" value="2"/>
+            
+            <enum name="textEnd" value="3"/>
+            
+            <enum name="center" value="4"/>
+            
+            <enum name="viewStart" value="5"/>
+            
+            <enum name="viewEnd" value="6"/>
+        </attr><attr format="integer" name="importantForAccessibility">
+
+            
+            <enum name="auto" value="0"/>
+            
+            <enum name="yes" value="1"/>
+            
+            <enum name="no" value="2"/>
+        </attr><attr format="integer" name="accessibilityFocusable">
+
+            
+            <enum name="auto" value="0"/>
+            
+            <enum name="yes" value="1"/>
+            
+            <enum name="no" value="2"/>
+        </attr></declare-styleable><declare-styleable name="PinterestLikeAdapterView"><attr format="integer" name="plaColumnNumber"/><attr format="integer" name="plaLandscapeColumnNumber"/><attr format="dimension" name="plaColumnPaddingLeft"/><attr format="dimension" name="plaColumnPaddingRight"/></declare-styleable></configuration></mergedItems></merger>

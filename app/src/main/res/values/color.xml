@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="main_color">#ff3700</color>
+    <color name="background_main">#f3f3f3</color>
+    <color name="background_transparent">#00FFFFFF</color>
+    <color name="ed_bg">#f3f3f3</color>
+    <color name="bg_main_gray">#eee</color>
+    <color name="black">#181818</color>
+    <color name="black_little">#636363</color> <!-- 浅黑 -->
+    <color name="black_1">#242729</color> <!-- 浅黑 -->
+    <color name="black_2">#222223</color> <!-- 浅黑 -->
+    <color name="top_black_bg">#050b16</color>
+    <color name="red">#f61f38</color>
+    <color name="red1">#fcf1f0</color>
+    <color name="blue">#3e54fa</color>
+    <color name="blue1">#7281d1</color>
+    <color name="orange">#EEB422</color>
+    <color name="white">#ffffff</color>
+    <color name="gray">#949494</color> <!-- 灰色 -->
+    <color name="gray_1">#efeeee</color> <!-- 小灰色 -->
+    <color name="Orange2">#fe5629</color>
+    <color name="Orange3">#de5302</color>
+    <color name="gray_little">#f9f9f9</color>
+    <color name="gray_little3">#f5f6f8</color>
+    <color name="gray_little4">#efefef</color>
+    <color name="gray_little1">#afafaf</color>
+    <color name="gray_little2">#e3e3e3</color>
+    <color name="gray_little5">#dfdfe0</color>
+    <color name="main_gray_little">#999999</color>
+    <color name="gray_little6">#9a9a9a</color>
+    <color name="main_Green">#37b059</color>
+    <color name="transparent">#00000000</color>
+    <color name="main_orange">#ff6633</color> <!-- 桔黄 -->
+    <color name="main_btn_up">#f7f7f7</color>
+    <color name="main_btn_down">#d8d8d8</color> <!-- 桔黄 -->
+    <color name="yellow1">#ff8c00</color> <!-- 浅蓝 -->
+    <color name="green1">#abe6b0</color> <!-- 浅绿 -->
+    <color name="logocolor">#ff4200</color> <!-- logo色值橘黄 -->
+
+    <color name="welcome_bg">#f8f8f8</color>
+    <color name="red_1">#fae1ba</color>
+    <color name="red_3">#fbecd6</color>
+    <color name="main_color1">#d5b687</color>
+    <color name="main_color2">#ac8447</color>
+    <color name="main_color3">#f1dcbe</color>
+    <color name="blue_1">#6ec2ed</color> <!-- 蓝 -->
+    <color name="yellow_1">#fec400</color> <!-- 黄 -->
+    <color name="white_1">#fad0c5</color>
+    <color name="red_2">#fc6062</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="transparent_white">#ddffffff</color>
+    <color name="transparent_orange">#ddff9933</color>
+    <color name="gree">#6bc823</color>
+    <color name="nd_red">#e35a54</color>
+    <color name="nd_gray">#7c7971</color>
+    <color name="edit_color">#908e88</color>
+    <color name="edit_color1">#faf9f9</color>
+</resources>

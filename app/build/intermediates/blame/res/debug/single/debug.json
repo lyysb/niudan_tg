@@ -1,0 +1,386 @@
+[
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_add_car.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\layout_add_car.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_lay_customer_item.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\lay_customer_item.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_updateprice.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\layout_updateprice.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_jian.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable\\btn_jian.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_carlist.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\layout_carlist.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_lay_car_item.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\lay_car_item.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_img_niudan.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xhdpi\\img_niudan.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_lay_region_item.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\lay_region_item.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_xian_03.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xhdpi\\xian_03.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_eggs.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\layout_eggs.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_get_paymentboard.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\layout_get_paymentboard.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_set_customerinfo.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\layout_set_customerinfo.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_edittext_icon.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xhdpi\\edittext_icon.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable_walk.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable\\walk.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_capture.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_jia_down.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xhdpi\\icon_jia_down.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_img_tx_bg.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xhdpi\\img_tx_bg.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\raw_beep.ogg.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_img_logion_down.9.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xhdpi\\img_logion_down.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_lay_order_item.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\lay_order_item.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_img_back_up.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xhdpi\\img_back_up.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_back.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable\\btn_back.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_xlistview_footer.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_set.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\layout_set.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_login.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable\\btn_login.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_edatalist.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\layout_edatalist.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_update_phone.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\layout_update_phone.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_xlistview_header.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_jia.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable\\btn_jia.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_img_txjl_icon.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xhdpi\\img_txjl_icon.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dk.9.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xhdpi\\dk.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_get_img.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\dialog_get_img.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_photo_kuang_03.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xhdpi\\photo_kuang_03.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_bottom_bg.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable\\main_bottom_bg.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_card_bd.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\layout_card_bd.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_extension.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\dialog_extension.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_statistics.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\layout_statistics.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_xc_ic13.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xhdpi\\xc_ic13.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_new_extensionstaff.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\layout_new_extensionstaff.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_empty_photo.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xhdpi\\empty_photo.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_suggestion_list_item.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\suggestion_list_item.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_update_passward.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\layout_update_passward.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\raw_realm_properties.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\raw\\realm_properties"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_customer_location.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\layout_customer_location.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_updateprice.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable\\btn_updateprice.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_img_updateprice_down.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xhdpi\\img_updateprice_down.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_selector_plan_btn.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xhdpi\\selector_plan_btn.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_img_2.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable\\main_img_2.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable_load_progressbar_style.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable\\load_progressbar_style.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_set_customerinfo2.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\layout_set_customerinfo2.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drive.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable\\drive.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_jian_up.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xhdpi\\icon_jian_up.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_up_customerreward.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\layout_up_customerreward.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_main_1_down.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xhdpi\\main_1_down.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_login.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\layout_login.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_web.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\layout_web.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_main_2_up.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xhdpi\\main_2_up.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_carinfo.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\layout_carinfo.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pull_to_refresh_arrow.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xhdpi\\pull_to_refresh_arrow.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_car_bd.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\layout_car_bd.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_lay_sign.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\lay_sign.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_img_login_up.9.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xhdpi\\img_login_up.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_lay_egg.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\lay_egg.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_huanchong_icon_bg.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xhdpi\\huanchong_icon_bg.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_dk.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-hdpi\\btn_dk.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_customprogressdialog.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\customprogressdialog.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_jz_shape.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-hdpi\\jz_shape.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_jia_up.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xhdpi\\icon_jia_up.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_regionlist.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\layout_regionlist.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_lay_extension_item.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\lay_extension_item.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_lay_eggrecord.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\lay_eggrecord.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_main_2_down.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xhdpi\\main_2_down.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_img_1.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable\\main_img_1.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_img_back_down.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xhdpi\\img_back_down.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_main.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\layout_main.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dialog_bg.9.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xhdpi\\dialog_bg.9.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_customerlist.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\layout_customerlist.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_extension.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\layout_extension.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_main_1_up.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xhdpi\\main_1_up.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_63.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xhdpi\\icon_63.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_queren.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\dialog_queren.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_jian_down.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xhdpi\\icon_jian_down.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_order.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\layout_order.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_road_plan.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\layout\\activity_road_plan.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_img_updateprice_up.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xhdpi\\img_updateprice_up.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_face_happy.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xhdpi\\face_happy.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bus.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable\\bus.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_img_bg1.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xhdpi\\img_bg1.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_btn_bg1.xml.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable\\main_btn_bg1.xml"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_city_line.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xhdpi\\city_line.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_progressdialog_bg.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xhdpi\\progressdialog_bg.png"
+    },
+    {
+        "merged": "E:\\niudan_tg\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_img_bg.png.flat",
+        "source": "E:\\niudan_tg\\app\\src\\main\\res\\drawable-xhdpi\\img_bg.png"
+    }
+]
